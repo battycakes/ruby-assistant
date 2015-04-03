@@ -2,7 +2,7 @@
 
 This is an "assistant" program named "Ruby" that has three functions:
 
-[git commit -m "initial"]
+<em>[git commit -m "initial"]</em>
 
 ##### 1. Calculate
 Ruby evaluates an expression input by user.
